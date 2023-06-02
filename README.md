@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on any university Level Projects
-- 📫 How to reach me LinkedIn
+- 📫 You can reach me through LinkedIn
 
 <!---
 AB-HANAN/AB-HANAN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
