@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AB-HANAN
 - 👀 I’m interested in Machine Learning 
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on any university Level Projcts
+- 💞️ I’m looking to collaborate on any university Level Projects
 - 📫 How to reach me LinkedIn
 
 <!---
