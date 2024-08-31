@@ -1,4 +1,4 @@
-Hi there! I'm a passionate developer with a keen interest in AI and Machine Learning. I enjoy tackling complex problems and turning innovative ideas into reality through code. My GitHub repositories reflect my journey in software development, showcasing a mix of personal projects, collaborations, and contributions to open-source initiatives.
+I'm a passionate developer with a keen interest in AI and Machine Learning. I enjoy tackling complex problems and turning innovative ideas into reality through code. My GitHub repositories reflect my journey in software development, showcasing a mix of personal projects, collaborations, and contributions to open-source initiatives.
 
 I'm particularly fascinated by the potential of AI and machine learning to transform industries and improve lives. My projects often explore these areas, aiming to push the boundaries of what's possible with technology.
 
